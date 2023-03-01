@@ -19,14 +19,21 @@ section {
 
 #yellow {
   background-color: #ffff92;
+  order: 1;
 }
 
 #red {
   background-color: #ff919c;
+  order: 2;
+}
+
+#green {
+  order: 3;
 }
 
 #blue {
   background-color: #98d2ff;
+  order: 5;
 }
 
 ul {
